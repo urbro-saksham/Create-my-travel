@@ -257,7 +257,7 @@ function App() {
                     <p>A journey through the oldest living city in the world. Witness the magical Ganga Aarti.</p>
                     <div className="pkg-footer">
                       <span className="duration">4 Days / 3 Nights</span>
-                      <button className="btn btn-primary btn-sm">Explore</button>
+                      <a href="https://wa.link/4ri2dm" target="_blank" rel="noreferrer" className="btn btn-primary btn-sm">Explore</a>
                     </div>
                   </div>
                 </motion.div>
@@ -273,7 +273,7 @@ function App() {
                     <p>Live like royalty in the grand palaces of Jaipur, Jodhpur, and Udaipur.</p>
                     <div className="pkg-footer">
                       <span className="duration">7 Days / 6 Nights</span>
-                      <button className="btn btn-primary btn-sm">Explore</button>
+                      <a href="https://wa.link/4ri2dm" target="_blank" rel="noreferrer" className="btn btn-primary btn-sm">Explore</a>
                     </div>
                   </div>
                 </motion.div>
@@ -289,7 +289,7 @@ function App() {
                     <p>Relax in the serene houseboats and explore the lush green landscapes of God's Own Country.</p>
                     <div className="pkg-footer">
                       <span className="duration">5 Days / 4 Nights</span>
-                      <button className="btn btn-primary btn-sm">Explore</button>
+                      <a href="https://wa.link/4ri2dm" target="_blank" rel="noreferrer" className="btn btn-primary btn-sm">Explore</a>
                     </div>
                   </div>
                 </motion.div>
@@ -307,7 +307,7 @@ function App() {
                     <p>Discover the romance of Paris, the history of Rome, and the beauty of the Swiss Alps.</p>
                     <div className="pkg-footer">
                       <span className="duration">10 Days / 9 Nights</span>
-                      <button className="btn btn-primary btn-sm">Explore</button>
+                      <a href="https://wa.link/4ri2dm" target="_blank" rel="noreferrer" className="btn btn-primary btn-sm">Explore</a>
                     </div>
                   </div>
                 </motion.div>
@@ -323,7 +323,7 @@ function App() {
                     <p>Experience tropical paradise, vibrant culture, and stunning beaches in Indonesia.</p>
                     <div className="pkg-footer">
                       <span className="duration">6 Days / 5 Nights</span>
-                      <button className="btn btn-primary btn-sm">Explore</button>
+                      <a href="https://wa.link/4ri2dm" target="_blank" rel="noreferrer" className="btn btn-primary btn-sm">Explore</a>
                     </div>
                   </div>
                 </motion.div>
@@ -338,7 +338,7 @@ function App() {
                     <p>Experience the future in the city of gold. Sky-high luxury and desert adventures await.</p>
                     <div className="pkg-footer">
                       <span className="duration">5 Days / 4 Nights</span>
-                      <button className="btn btn-primary btn-sm">Explore</button>
+                      <a href="https://wa.link/4ri2dm" target="_blank" rel="noreferrer" className="btn btn-primary btn-sm">Explore</a>
                     </div>
                   </div>
                 </motion.div>
